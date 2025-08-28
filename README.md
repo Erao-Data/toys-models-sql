@@ -15,6 +15,13 @@ Base relationnelle composée de 8 tables principales :
 - **products** & **productlines** : produits et catégories
 - **payments** : paiements clients
 - **employees** & **offices** : structure RH et commerciale
+---
+
+## 🗺️ Schéma relationnel
+
+Voici la structure de la base de données **Toys & Models** :  
+
+![Schéma de la base Toys & Models](diagram_toys_models.png)
 
 ---
 
