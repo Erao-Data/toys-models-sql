@@ -64,10 +64,21 @@ Voici la structure de la base de données **Toys & Models** :
 
 ---
 
-## 📊 Prochaines étapes
-- Construction d’un **dashboard interactif avec Tableau** pour visualiser ces KPI
-- Publication du dashboard sur **Tableau Public**
-- Ajout des **captures d’écran** et du lien dans ce dépôt GitHub
+---
+
+## 📈 Dashboard interactif (Tableau)
+
+Un dashboard a été réalisé avec Tableau pour visualiser les KPI commerciaux et clients :  
+🔗 https://public.tableau.com/app/profile/eric.raoelison/viz/ToysModels_17583024820730/SalesDashboard 
+
+
+---
+
+### Points clés :
+- Vue consolidée des performances 2022 vs 2023
+- Top clients par profit avec exploration dynamique
+- Filtres interactifs (par année, client, pays,produit et catégorie)
+
 
 ---
 
