@@ -68,9 +68,8 @@ Voici la structure de la base de données **Toys & Models** :
 
 ## 📈 Dashboard interactif (Tableau)
 
-Un dashboard a été réalisé avec Tableau pour visualiser les KPI commerciaux et clients :  
-🔗 https://public.tableau.com/app/profile/eric.raoelison/viz/ToysModels_17583024820730/SalesDashboard 
-
+Un dashboard réalisé avec Tableau pour visualiser les KPI commerciaux et clients :  
+🔗 https://public.tableau.com/app/profile/eric.raoelison/viz/ToysModels_17583024820730/SalesDashboard
 
 ---
 
